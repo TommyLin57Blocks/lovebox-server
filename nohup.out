@@ -1,0 +1,12 @@
+
+> parse-server-example@1.4.0 start /root/parse-server-example
+> node index.js
+
+parse-server-example running on port 1337.
+info: Parse LiveQuery Server starts running
+
+> parse-server-example@1.4.0 start /root/parse-server-example
+> node index.js
+
+parse-server-example running on port 1337.
+info: Parse LiveQuery Server starts running
